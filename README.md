@@ -23,6 +23,8 @@ File -> Build Settings -> Android
 
 Using Unity with Git does not work well at all. Instead, use Unity Collab - version control that is included directly in Unity. Multiple people can collaborate on code and push to the master branch. Only downside is that you cannot go back to a previous state of the project after commiting. So make sure there are no bugs in the code before you add your changes to Unity Collab.
 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 ***Note that the current version of Trash Toss has been built and uploaded to the Android app store, as of June 2018.
 
+***Note that the latest art assets in the TT-art-assets folder were meant to be added into the game but we are unsure if those changes were actually saved, as of June 2018. If for some reason these art assets are not found with the other Complex Items in the game, please be sure to add them back in so that they will spawn during gameplay along with the other items.
