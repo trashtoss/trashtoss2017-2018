@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: f521c66671c48a24cb067fdb8c4c4e0d
+timeCreated: 1496632642
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - trash_1: {instanceID: 0}
+  - trash_2: {instanceID: 0}
+  - trash_3: {instanceID: 0}
+  - trash_4: {instanceID: 0}
+  - trash_5: {instanceID: 0}
+  - trash_6: {instanceID: 0}
+  - trash_7: {instanceID: 0}
+  - trash_8: {instanceID: 0}
+  - trash_9: {instanceID: 0}
+  - trash_10: {instanceID: 0}
+  - trash_11: {instanceID: 0}
+  - trash_12: {instanceID: 0}
+  - trash_13: {instanceID: 0}
+  - trash_14: {fileID: 1383954131280468, guid: 0fa97c3fbd4b8413cb1929eab1296d42, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
