@@ -11,7 +11,7 @@ To get started with the Coding Team:
 - One team member should upload the downloaded code repository to Unity as a new project. For version control, invite new members to contribute to this project via Unity Collab (in the sidebar) by adding each person’s Unity account emails. Once complete, all members should be able to edit the code, push new changes, and pull changes that have been added by other team-members, while working on the same project.
 - Meet and collaborate as a team to edit the app and come up with new ideas!
 
-~~~~~~~~~~~~~~~~~~~~
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 Trash Toss: An interactive gaming application for androids implemented by UCSC students in collaboration with the IDEASS program.
 
