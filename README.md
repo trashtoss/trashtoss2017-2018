@@ -24,5 +24,5 @@ File -> Build Settings -> Android
 Using Unity with Git does not work well at all. Instead, use Unity Collab - version control that is included directly in Unity. Multiple people can collaborate on code and push to the master branch. Only downside is that you cannot go back to a previous state of the project after commiting. So make sure there are no bugs in the code before you add your changes to Unity Collab.
 
 
-***Note that the current version of Trash Toss has been updated to the Android app store, as of June 2018.
+***Note that the current version of Trash Toss has been built and uploaded to the Android app store, as of June 2018.
 
